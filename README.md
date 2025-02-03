@@ -26,7 +26,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sakthiportfolio](https://github.com/sakthivelprasanna/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sakthiportfolio]("https://sakthiportfolio-cyan.vercel.app/). Thanks!
 
 ## Built With
 
