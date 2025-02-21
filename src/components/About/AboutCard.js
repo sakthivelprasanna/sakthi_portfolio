@@ -11,22 +11,26 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sakthivel prasanna </span>
             from <span className="purple"> Ramanathapuram, India.</span>
             <br />
-            I have one year of Experience in web developing at Aroopa Technologies.
+            I have one year and six months of Experience in web developing.
             <br />
-            I have completed  BE in stream of COMPUTER SCIENCE at SYED AMMAL ENGINEERING COLLEGE.
+            I have completed BE in stream of COMPUTER SCIENCE at SYED AMMAL ENGINEERING COLLEGE.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing cricket
+              <ImPointRight /> Playing cricket and football
             </li>
             <li className="about-activity">
               <ImPointRight /> Photography
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+              </li>
+            <li className="about-activity">
+              <ImPointRight /> cycling
             </li>
           </ul>
 
