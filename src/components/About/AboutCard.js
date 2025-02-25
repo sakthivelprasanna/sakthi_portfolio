@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I have Two years of Experience in web developing.
             <br />
-            I have completed BE in stream of COMPUTER SCIENCE at SYED AMMAL ENGINEERING COLLEGE.
+            I have completed Bachelor of Engineering in stream of COMPUTER SCIENCE ENGINEERING at SYED AMMAL ENGINEERING COLLEGE.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
