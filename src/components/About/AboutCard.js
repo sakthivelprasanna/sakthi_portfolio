@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sakthivel prasanna </span>
             from <span className="purple"> Ramanathapuram, India.</span>
             <br />
-            I have one year and six months of Experience in web developing.
+            I have Two years of Experience in web developing.
             <br />
             I have completed BE in stream of COMPUTER SCIENCE at SYED AMMAL ENGINEERING COLLEGE.
             <br />
