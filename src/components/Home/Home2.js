@@ -30,12 +30,12 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple">Web Technologies </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Html, css, bootstrap, mongoDb and Node.js</b> and
+              with <b className="purple">Html, css, javascript, bootstrap, mongoDb, Node.js, Express.js and Next.js</b> and
               <i>
                 <b className="purple">
                   {" "}
