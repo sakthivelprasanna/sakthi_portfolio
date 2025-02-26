@@ -35,8 +35,10 @@ My personal portfolio <a href="https://sakthiportfolio-cyan.vercel.app/" target=
 This project was built using these technologies.
 
 - React.js
+- javaScript
+- Bootstrap
+- Tailwind Css
 - Node.js
-- Express.js
 - CSS3
 - VsCode
 - Vercel
